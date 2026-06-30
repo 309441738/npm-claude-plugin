@@ -1,0 +1,8 @@
+{
+  "name": "npm",
+  "description": "通过 NPM 使用邮轮产品 API，开发者可以在自己的应用中集成邮轮产品信息。",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
