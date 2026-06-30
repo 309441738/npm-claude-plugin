@@ -1,0 +1,18 @@
+{
+  "name": "npm-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "邮轮产品 NPM 工具 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "npm",
+      "source": "./plugins/npm",
+      "description": "通过 NPM 使用邮轮产品 API，开发者可以在自己的应用中集成邮轮产品信息。",
+      "version": "0.1.0"
+    }
+  ]
+}
